@@ -6,7 +6,7 @@ import (
 	"os"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/kidoman/go-steam"
+	"github.com/thatstrangecoder/go-steam"
 )
 
 func main() {
